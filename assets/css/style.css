@@ -4,7 +4,7 @@
     font-family: arial,sans-serif;
 }
 header{
-    background-color:#806BDC;
+    background-color:#6b94dc;
     text-align:center;
     height:60px;
 }
@@ -23,7 +23,7 @@ a{
 .Items{
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: rgb(253, 245, 235);
+    background-color: rgb(189, 188, 188);
 }
 #item-table{
     width:100%;
@@ -45,7 +45,7 @@ a{
 }
 .shopping-time{  
     text-align: center;
-    background-color: rgba(104, 97, 72, 0.493);
+    background-color: rgba(82, 82, 82, 0.271);
     padding-top: 20px;
     padding-bottom: 30px;
 }
@@ -67,17 +67,19 @@ a{
     margin-top: 10px;
 }
 .sales-table-head{
-    background-color: #806BDC;
+    background-color: #4e4188cd;
 }
 .content{
     width:92vw;
     margin:20px;
     font-size:11px;
-    color:#878787;
+    color:#000000;
     list-style-position: inside;
+   
+  
 }
 footer{
-    background-color: rgb(62, 61, 61);
+    background-color: rgb(132, 125, 125);
     color: white;
     height:50px;
     text-align: center;
